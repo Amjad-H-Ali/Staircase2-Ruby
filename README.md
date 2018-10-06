@@ -1,7 +1,7 @@
 # Staircase2-Ruby
 
 
-##### This repository assumes you have already viewed [Recursive-Staircase-Python](https://github.com/Amjad-H-Ali/Recursive-Staircase-Ruby).
+##### This repository assumes you have already viewed [Recursive-Staircase-Ruby](https://github.com/Amjad-H-Ali/Recursive-Staircase-Ruby).
 
 ### We will take the program a step further.
 

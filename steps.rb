@@ -15,6 +15,9 @@ def staircase_2 steps, m, array=[]
 	if (array[steps])
 		return array[steps]
 	end
+
+	# Add up results in this variable.
+	results = 0
 	
-			
+
 end	

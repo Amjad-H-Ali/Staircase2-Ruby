@@ -26,7 +26,21 @@ def staircase_2 steps, m, array=[]
 			result += staircase_2 steps - i, m, array
 		end
 	end
-				
-	
 
+	# Store result in array before returning
+	array[steps] = result
+
+	result			
 end	
+
+p staircase_2 3, 3 # 4
+
+p staircase_2 4, 2 # 5
+
+p staircase_2 3, 2 # 3
+
+p staircase_2 0, 3 # 1
+
+p staircase_2 1, 2 # 1
+
+p staircase_2 3, 5 # 4
